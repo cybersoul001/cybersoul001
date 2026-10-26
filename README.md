@@ -37,5 +37,10 @@ i have worked with computers and have been involved in finding,fixing and mainta
 more so, i have worked in configuring devices to communicate on the network while also ensuring their security. I believe there is a lot more to explore in the field of computing hence, i have further increased my knowledge in the field of cybersecurity by learning how to protect and prevent systems from vulnerabilities and attacks. I currently work with companies by deploying safety measures in their systems, ensuring smooth connectivity and overall general working and efficiency in work operations .
 <h3>SKILLS</h3>
 IT SUPPORT - trouble shooting common PC problems, Wifi, Internet, Printer and hardware maintenance
-NETWORKING- Ability to configure network devices such as routers, switches and firewalls. more so, implementing concepts like Vlans,NAT,DNS,ACLS when building and simulating networking topologies.
-CYBERSECURITY- Blue team ( firewall rules,Wireshark,IDS/IPS(SURICATA),SPLUNK) and Red team ( Burpsuite,metasploit,Nmap,Nessus)with a solid proficiency in Linux CLI.
+<br>NETWORKING- Ability to configure network devices such as routers, switches and firewalls. more so, implementing concepts like Vlans,NAT,DNS,ACLS when building and simulating networking topologies.
+<br>CYBERSECURITY- Blue team ( firewall rules,Wireshark,IDS/IPS(SURICATA),SPLUNK) and Red team ( Burpsuite,metasploit,Nmap,Nessus)with a solid proficiency in Linux CLI,Windows and Mac OS.
+<H3>PROJECTS</H3>
+You can go through my repositories and projects to see what i have built and documented, some of the projects i have worked on includes :
+Networking - Configuring DHCP,VLANS,PORT-SECURITY,NAT,SSH and ACLS in a network topology.
+Cybersecurity- Configured Suricata to detect malicious traffic into the network.<br>Configured fail2ban to handle unauthorized authentication <br>Analysed local logs using splunk while building dashboards.<br> built an AI powered SOC dashboard that monitors incoming and outgoing logs.<br> Analysed vulnerabilities in websites using nmap, burpsuite.
+to check out my projects go through each of my repositories.
