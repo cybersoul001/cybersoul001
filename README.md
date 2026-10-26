@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi, nice to connect with you here!
-I am an IT Enthusiast and i have been in the tech space for almost a decade. my niche is IT support, Networking and Cybersecurity.
-i have worked with computers and have been involved in finding,fixing and maintaining these systems both in the hardware and software.
-more so, i have worked in configuring devices to communicate on the network while also ensuring their security. I believe there is a lot more to explore in the field of computing hence, i have further increased my knowledge in the field of cybersecurity by learning how to protect and prevent systems from vulnerabilities and attacks. I currently work with companies by deploying safety measures in their systems, ensuring smooth connectivity and overall general working and efficiency in work operations .
+I am an IT enthusiast and i have been in the tech space for almost a decade! My niche is IT support, Networking and Cybersecurity.
+I have worked with computers and have been involved in finding,fixing and maintaining these systems both in hardware and software.
+More so, i have worked in configuring devices to communicate on the network while also ensuring their overall security. I believe there is a lot more to explore in the field of computing hence, i have further increased my knowledge by venturing into the field of cybersecurity by learning how to protect and prevent systems from vulnerabilities and attacks. I currently work with companies by deploying safety measures in their systems, ensuring smooth connectivity and overall general working and efficiency of system infracstructure .
 <h3>SKILLS</h3>
 IT SUPPORT - trouble shooting common PC problems, Wifi, Internet, Printer and hardware maintenance
 <br><strong>NETWORKING</strong>- Ability to configure network devices such as routers, switches and firewalls. more so, implementing concepts like Vlans,NAT,DNS,ACLS when building and simulating networking topologies.
