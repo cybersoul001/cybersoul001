@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Ayodeji
-## Hi there 👋
 
 <!--
 **cybersoul001/cybersoul001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,5 +41,5 @@ IT SUPPORT - trouble shooting common PC problems, Wifi, Internet, Printer and ha
 <H3>PROJECTS</H3>
 You can go through my repositories and projects to see what i have built and documented, some of the projects i have worked on includes :
 Networking - Configuring DHCP,VLANS,PORT-SECURITY,NAT,SSH and ACLS in a network topology.
-Cybersecurity- Configured Suricata to detect malicious traffic into the network.<br>Configured fail2ban to handle unauthorized authentication <br>Analysed local logs using splunk while building dashboards.<br> built an AI powered SOC dashboard that monitors incoming and outgoing logs.<br> Analysed vulnerabilities in websites using nmap, burpsuite.
+<br>Cybersecurity- Configured Suricata to detect malicious traffic into the network.<br>Configured fail2ban to handle unauthorized authentication <br>Analysed local logs using splunk while building dashboards.<br> built an AI powered SOC dashboard that monitors incoming and outgoing logs.<br> Analysed vulnerabilities in websites using nmap, burpsuite.
 to check out my projects go through each of my repositories.
