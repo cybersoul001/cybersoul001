@@ -37,7 +37,7 @@ more so, i have worked in configuring devices to communicate on the network whil
 <h3>SKILLS</h3>
 IT SUPPORT - trouble shooting common PC problems, Wifi, Internet, Printer and hardware maintenance
 <br><strong>NETWORKING</strong>- Ability to configure network devices such as routers, switches and firewalls. more so, implementing concepts like Vlans,NAT,DNS,ACLS when building and simulating networking topologies.
-<br><strong>CYBERSECURITY</strong>- Blue team ( firewall rules,Wireshark,IDS/IPS(SURICATA),SPLUNK) and Red team ( Burpsuite,metasploit,Nmap,Nessus)with a solid proficiency in Linux CLI,Windows and Mac OS.
+<br><strong>CYBERSECURITY</strong>- Blue team ( firewall rules,Wireshark,IDS/IPS(SURICATA),SPLUNK) <br>Red team ( Burpsuite,metasploit,Nmap,Nessus)with a solid proficiency in Linux CLI,Windows and Mac OS.
 <H3>PROJECTS</H3>
 You can go through my repositories and projects to see what i have built and documented, some of the projects i have worked on includes :
 Networking - Configuring DHCP,VLANS,PORT-SECURITY,NAT,SSH and ACLS in a network topology.
